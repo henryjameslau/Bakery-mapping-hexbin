@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features":[
+		{"type":"Feature",
+		 "id":"node/45273747",
+		 "geometry":{
+			"type":"Point",
+			"coordinates":[-0.1101491,51.5978516]
+			},
+		 "geometry_name":"origin_geom",
+		 "properties":{}
+		},
+		{"type":"Feature",
+		 "id":"quake.3380927",
+		 "geometry":{
+			"type":"Point",
+			"coordinates":[-0.1507075,51.513186]
+			},
+		 "geometry_name":"origin_geom",
+		 "properties":{}
+		}],
+	"crs":{"type":"EPSG","properties":{"code":"4326"}},
+	"bbox":[171.65283,-43.9078,173.09492,-42.04222]}
